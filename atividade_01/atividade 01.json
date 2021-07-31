@@ -1,0 +1,10 @@
+{
+  "name": "cantiga-de-ninar",
+  "version": "1.0.0",
+  "description": "atividade 01",
+  "main": "index.html",
+  "scripts": {
+  },
+  "author": "Elieser Jr.",
+  "license": "ISC"
+}
